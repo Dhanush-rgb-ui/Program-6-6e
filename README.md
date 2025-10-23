@@ -3,6 +3,7 @@
 Create a structure for eb calculation bill for 3 Customers(use customer no,prev reading & curre reading as input) using nested structure ( first 100 unit 2 Rs per unit ,101 to 200 rs.3 per unit and above 200 rs 5 per unit).
 
 ## For example:
+<img width="283" height="247" alt="image" src="https://github.com/user-attachments/assets/5dbdf8dd-af7a-4eb1-ae7a-3ec89199ba1f" />
 
 ## Program:
 ```c
@@ -48,3 +49,4 @@ int main(){
 }
 ```
 ## Result:
+<img width="580" height="670" alt="image" src="https://github.com/user-attachments/assets/b4f5dfe2-958e-4572-aeb3-d0474c642ed0" />
